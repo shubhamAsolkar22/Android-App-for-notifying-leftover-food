@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pingar</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="startup_button_donate">Set pickup location to donate food via NGO</string>
+    <string name="startup_button2_searchForDonor">Find places where you can donate by yourself</string>
+    <string name="title_activity_to_donate">Map</string>
+    <string name="alertmessage">\t<i>please make sure that the food that you are donanting is in edible condition</i></string>
+    <string name="option_guideline">if you dont have enough quantity of food it will be a wise choice not to request the NGO for collection. Instead use the second option to find needy people around you!! </string>
+
+
+</resources>
